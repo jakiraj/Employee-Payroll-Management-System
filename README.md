@@ -21,8 +21,9 @@ such as insert, update and delete in the database and calculate salary
 # Update Salary in (%)
 ![9](https://user-images.githubusercontent.com/33680160/49327320-5e3abd80-f58a-11e8-8ea0-e964a2a30c73.png)
 # Update Salary in (amount)
-
+![10](https://user-images.githubusercontent.com/33680160/49327497-e7eb8a80-f58c-11e8-9b93-5015a98a56b4.png)
 # Deduction
+![11](https://user-images.githubusercontent.com/33680160/49327498-e8842100-f58c-11e8-9c7a-c7410e98e909.png)
 
 
 
