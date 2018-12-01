@@ -7,21 +7,27 @@ such as insert, update and delete in the database and calculate salary
 # Main
 ![2](https://user-images.githubusercontent.com/33680160/49326901-44e24300-f583-11e8-940f-a5f0b3187f90.png)
 # Add Employee
-![3](https://user-images.githubusercontent.com/33680160/49326902-44e24300-f583-11e8-9481-f9f47a260a21.png)
+![3](https://user-images.githubusercontent.com/33680160/49327315-5d099080-f58a-11e8-932f-c2cd60ad3f6e.png)
 # Update Employee
-![4](https://user-images.githubusercontent.com/33680160/49326903-457ad980-f583-11e8-8c3a-70371dc2f7a4.png)
+![4](https://user-images.githubusercontent.com/33680160/49327316-5da22700-f58a-11e8-9067-4f9742b02b52.png)
 # Delete Employee
-![5](https://user-images.githubusercontent.com/33680160/49326904-457ad980-f583-11e8-81f7-5f4065118086.png)
+![5](https://user-images.githubusercontent.com/33680160/49327317-5da22700-f58a-11e8-9785-fe4e33baa146.png)
 # Employee
 ![6](https://user-images.githubusercontent.com/33680160/49326905-46137000-f583-11e8-9e32-f69853329931.png)
 # Allowance 
-![7](https://user-images.githubusercontent.com/33680160/49326906-46137000-f583-11e8-8c7e-13ea75bd4a8f.png)
+![7](https://user-images.githubusercontent.com/33680160/49327318-5e3abd80-f58a-11e8-98a4-a15db21b2dea.png)
 # Search Employee
-![8](https://user-images.githubusercontent.com/33680160/49326907-46ac0680-f583-11e8-9e23-283348195d73.png)
+![8](https://user-images.githubusercontent.com/33680160/49327319-5e3abd80-f58a-11e8-9ea1-eb9a15224d23.png)
 # Update Salary in (%)
-![9](https://user-images.githubusercontent.com/33680160/49326908-46ac0680-f583-11e8-9eb7-1b1389fc4de6.png)
+![9](https://user-images.githubusercontent.com/33680160/49327320-5e3abd80-f58a-11e8-8ea0-e964a2a30c73.png)
 # Update Salary in (amount)
 ![10](https://user-images.githubusercontent.com/33680160/49326909-46ac0680-f583-11e8-92a8-2e52f0bfe5b6.png)
 # Deduction
 ![11](https://user-images.githubusercontent.com/33680160/49326910-47449d00-f583-11e8-959e-d9a2e481d860.png)
+
+
+
+
+
+
 
