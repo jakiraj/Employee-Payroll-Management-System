@@ -10,6 +10,12 @@
 <project name="Employee_Payroll_Management_System" default="default" basedir=".">
     <description>Builds, tests, and runs the project Employee Payroll Management System.</description>
     <import file="nbproject/build-impl.xml"/>
+    <target name="-pre-init">
+        <!-- Portable library path; leave NetBeans' generated build script intact. -->
+        <property name="libraries.path" location="lib/nblibraries.properties"/>
+        <!-- The original repository tracks build/; keep new output separate. -->
+        <property name="build.dir" value="out"/>
+    </target>
     <!--
 
     There exist several targets which are by default empty and which can be 

@@ -1,0 +1,13 @@
+# Local database credentials
+/payroll-db.properties
+
+# Build output (legacy tracked build/ files remain in the baseline)
+/out/
+/build/
+/dist/
+
+# Local editor and NetBeans settings
+/.idea/
+/.vscode/
+/nbproject/private/
+.DS_Store
